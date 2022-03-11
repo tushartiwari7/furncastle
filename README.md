@@ -1,0 +1,1 @@
+# The platform to sale Furniture goods built using react
