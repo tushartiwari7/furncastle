@@ -1,8 +1,9 @@
+import {Header} from "./components";
 
 function App() {
   return (
     <div className="App">
-      Furn Castle
+      <Header />
     </div>
   );
 }
